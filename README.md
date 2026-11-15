@@ -209,4 +209,4 @@ This project was developed as a structured data processing pipeline inspired by 
 
 ## Author
 
-Oumaima Benaziza
+Malak Benaziza
